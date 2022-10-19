@@ -2,7 +2,7 @@
 
 To seek a challenging and responsible career with an organization that provides ample opportunities to apply my academic knowledge, skill and creativity in the field of Information Technology. Ability to quickly understand new ideas & technologies. Self motivation & self-starter attitude towards work along with confidence & hardworking nature.
 
-- 🔭 I’m currently working on automation
+- 🔭 I’m currently working on [Web scraping](https://github.com/45H15H/Web-Scraping-Projects)
 - 🌱 I’m currently learning data visualization
 - 📫 How to reach me: ashish1qwerty1@gmail.com
 - 😄 Pronouns: he/him
