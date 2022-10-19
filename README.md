@@ -1,16 +1,21 @@
 ### Hi there 👋
 
+To seek a challenging and responsible career with an organization that provides ample opportunities to apply my academic knowledge, skill and creativity in the field of Information Technology. Ability to quickly understand new ideas & technologies. Self motivation & self-starter attitude towards work along with confidence & hardworking nature.
+
+- 🔭 I’m currently working on automation
+- 🌱 I’m currently learning data visualization
+- 📫 How to reach me: ashish1qwerty1@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm lazy
+
 <!--
-**45H15H/45H15H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on automation
+- 🌱 I’m currently learning data visualization
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ashish1qwerty1@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm lazy
 -->
