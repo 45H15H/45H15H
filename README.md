@@ -1,4 +1,6 @@
-<img src="banner.png" alt="Hero image">
+<!-- <img src="banner.png" alt="Hero image"> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&size=55&pause=1000&color=3EF760&background=0A0C1000&width=900&height=100&lines=Hey%2C+i'm+Ashish!;Self-taught+Data+Analyst;Machine+Learning+Enthusiast;Web+Scraping+Freelancer)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
