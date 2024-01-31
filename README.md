@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&size=55&pause=1000&color=3EF760&background=0A0C1000&width=900&height=100&lines=Hey%2C+i'm+Ashish!;Self-taught+Data+Analyst;Machine+Learning+Enthusiast;Web+Scraping+Freelancer)](https://git.io/typing-svg)
 
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 I'm a student at National Institute of Technology Goa currently learning Data Science. I'm passionate about using data to drive meaningful insights and solve real-world problems. On my GitHub profile, you'll find a collection of projects and collaborations that showcase my skills and interests in data analysis, machine learning, and automation. I'm always looking for new opportunities to learn and grow, so feel free to reach out if you have any ideas for projects or collaborations!
 
