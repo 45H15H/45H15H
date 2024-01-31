@@ -40,4 +40,7 @@ I'm a student at National Institute of Technology Goa currently learning Data Sc
   <a href="https://instagram.com/ashishsin9h159" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
+  <a href="https://linktr.ee/45h15h" target="_blank">
+    <img src=https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white />
+  </a>
 </div>  
