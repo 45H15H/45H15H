@@ -6,8 +6,8 @@
 
 I'm Ashish Singh, currently working as a Software Engineer at Digit Insurance. I’m an NIT Goa graduate with a deep interest in data-driven problem solving, automation, and all things tech. On my GitHub profile, you'll find a collection of projects and collaborations that showcase my skills and interests in data analysis, machine learning, and automation. I'm always looking for new opportunities to learn and grow, so feel free to reach out if you have any ideas for projects or collaborations!
 
-- 🔭 I’m currently working on image recognition
-- 🌱 I’m currently learning Streamlit
+- 🔭 I’m currently working on Flask applications
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me: ashish1qwerty1@gmail.com
 - 😄 Pronouns: he/him
@@ -23,6 +23,17 @@ I'm Ashish Singh, currently working as a Software Engineer at Digit Insurance. I
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm lazy
 -->
+<br>
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+</div>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=45H15H&base=666&label=PROFILE+VIEWS&style=for-the-badge&color=red)
 
@@ -44,3 +55,5 @@ I'm Ashish Singh, currently working as a Software Engineer at Digit Insurance. I
     <img src=https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white />
   </a>
 </div>  
+
+
